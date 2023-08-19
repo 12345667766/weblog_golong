@@ -1,0 +1,18 @@
+[viewer]
+    Title = "Go语言博客"
+    Description = "Go语言博客"
+    Logo = "/resource/images/logo.png"
+    Navigation = ["首页","/", "GO语言","/golang", "归档","/pigeonhole", "关于","/about"]
+    Bilibili = "https://space.bilibili.com/3493077113112660"
+    Zhihu = "https://www.zhihu.com/people/xiaopan-49"
+    Avatar = "https://t7.baidu.com/it/u=3257060251,2127829243&fm=193&f=GIF"
+    UserName = "wenpi"
+    UserDesc = "golang初学"
+[system]
+    CdnURL = "https://static.mszlu.com/goblog/es6/md-assets"
+    QiniuAccessKey = "1"
+    QiniuSecretKey = "2"
+    Valine = true
+    ValineAppid = "TWojjl4R6DV3eEaiAfb16PTv-gzGzoHsz"
+    ValineAppkey = "AB1nyR9IBUntAMr7FLlc3BdN"
+    ValineServerURL = "https://twojjl4r.lc-cn-n1-shared.com"

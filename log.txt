@@ -1,0 +1,5 @@
+[INFO]2023/08/19 19:02:51 main.go:19: hello, world
+[INFO]2023/08/19 19:12:01 main.go:19: hello, world
+[INFO]2023/08/19 19:13:51 main.go:20: hello, world
+[INFO]2023/08/19 19:13:51 main.go:21: %v
+{Go语言博客 Go语言博客 /resource/images/logo.png [首页 / GO语言 /golang 归档 /pigeonhole 关于 /about] https://space.bilibili.com/3493077113112660 https://www.zhihu.com/people/xiaopan-49 https://t7.baidu.com/it/u=3257060251,2127829243&fm=193&f=GIF wenpi golang初学}
